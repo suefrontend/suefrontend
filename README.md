@@ -1,4 +1,4 @@
-### Hi there 👋
+### Front-end Developer / UI Designer
 
 <!--
 **suefrontend/suefrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
