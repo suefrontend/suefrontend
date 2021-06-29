@@ -1,6 +1,6 @@
 ### Front-end Developer / UI Designer
 
-I code and design
+I code and design.
 
 <!--
 **suefrontend/suefrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
