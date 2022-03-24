@@ -1,7 +1,6 @@
 <img src="./logo.jpg" alt="Kayano Oyama">
 
-<h2 style="text-align:center;">Front-end Developer / UI Designer</h2>
-I code and design
+<h2 align="center">I'm a Front-End Developer and UI Designer</h2>
 
 <!--
 **suefrontend/suefrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
