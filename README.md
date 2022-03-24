@@ -1,5 +1,7 @@
 ### Front-end Developer / UI Designer
 
+<img src="logo" alt="Kayano Oyama">
+
 I code and design
 
 <!--
