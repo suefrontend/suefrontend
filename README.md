@@ -1,6 +1,6 @@
 <img src="./logo.jpg" alt="Kayano Oyama">
 
-<h1 style="text-align:center">Front-end Developer / UI Designer</h1>
+<h2 style="text-align:center;">Front-end Developer / UI Designer</h2>
 I code and design
 
 <!--
