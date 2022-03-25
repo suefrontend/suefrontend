@@ -1,6 +1,20 @@
 <img src="./logo.jpg" alt="Kayano Oyama">
 
-<h2 align="center">I'm a Front-End Developer and UI Designer</h2>
+### About Me
+
+- I'm a **Front-End Developer** and **UI Designer**
+- I'm open now!
+
+### My Skill Set
+
+- Front-end development using **HTML**, **CSS** and **JavaScript**
+- Create **UI design** using **PhotoShop**
+- I'm polishing my **React** coding skill
+
+## Connect with me
+
+- This is my [portfolio](https://www.kayanooyama.com)
+- Let's connect on [LinkedIn](https://linkedin.com/in/kayano-oyama)
 
 <!--
 **suefrontend/suefrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
