@@ -3,15 +3,17 @@
 ### About Me
 
 - I'm a **Front-End Developer** and **UI Designer**
+- I'm based on Vancouver, BC
 - I'm open now!
 
 ### My Skill Set
 
 - Front-end development using **HTML**, **CSS** and **JavaScript**
 - Create **UI design** using **PhotoShop**
-- I'm polishing my **React** coding skill
+- Build and customize **WordPress** websites
+- Currently polishing my **React** coding skill
 
-## Connect with me
+### Links
 
 - This is my [portfolio](https://www.kayanooyama.com)
 - Let's connect on [LinkedIn](https://linkedin.com/in/kayano-oyama)
