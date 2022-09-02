@@ -11,7 +11,7 @@
 - Front-end development using **HTML**, **CSS** and **JavaScript**
 - Create **UI design** using **PhotoShop**
 - Build and customize **WordPress** websites
-- Currently polishing my **React** coding skill
+- Currently polishing my **React** and **TypeScript** skill
 
 ### Links
 
