@@ -4,7 +4,6 @@
 
 - I'm a **Front-End Developer**
 - I'm based on Vancouver, BC
-- I'm open now!
 
 ### My Skill Set
 
