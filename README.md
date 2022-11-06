@@ -17,6 +17,8 @@
 - This is my [portfolio](https://www.kayanooyama.com)
 - Let's connect on [LinkedIn](https://linkedin.com/in/kayano-oyama)
 
+https://github-stats-evirunurm.vercel.app/api/languages.js?username=suefrontend
+
 <!--
 **suefrontend/suefrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
