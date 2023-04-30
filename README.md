@@ -14,7 +14,7 @@
 
 ### Links
 
-- This is my [portfolio](https://www.kayanooyama.com)
+<!-- - This is my [portfolio](https://www.kayanooyama.com)-->
 - Let's connect on [LinkedIn](https://linkedin.com/in/kayano-oyama)
 
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suefrontend)](https://github.com/anuraghazra/github-readme-stats)
