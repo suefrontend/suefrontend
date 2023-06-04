@@ -20,5 +20,5 @@
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suefrontend)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**suefrontend/suefrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**suefrontend/suefrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
