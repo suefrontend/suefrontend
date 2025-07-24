@@ -1,4 +1,4 @@
-<img src="./logo.jpg" alt="Kayano Oyama">
+<!-- <img src="./logo.jpg" alt="Kayano Oyama"> -->
 
 ### About Me
 
