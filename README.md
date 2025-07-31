@@ -1,9 +1,6 @@
-<!-- <img src="./logo.jpg" alt="Kayano Oyama"> -->
+<!-- <img src="./logo.jpg" alt=""> -->
 
 <!-- ### About Me
-
-- I'm a **Front-End Developer**
-- I'm based on Vancouver, BC
 
 ### My Skill Set
 
